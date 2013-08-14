@@ -11,6 +11,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.compiler.version>1.6</java.compiler.version>
 	</properties>
+	<scm>
+		<connection>scm:git@github.com:rubenghio/jar-signer-sample.git</connection>
+		<url>scm:git:git@github.com:rubenghio/jar-signer-sample.git</url>
+		<developerConnection>scm:git:git@github.com:rubenghio/jar-signer-sample.git</developerConnection>
+	</scm>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
