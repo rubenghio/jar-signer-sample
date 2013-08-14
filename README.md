@@ -4,6 +4,7 @@ jar-signer-sample
 Proyecto de ejemplo para firmar y validar los jars
 
 Requisitos
+
 	JAVA 1.6 (o superior)
 	MAVEN 2 (o superior)
 
