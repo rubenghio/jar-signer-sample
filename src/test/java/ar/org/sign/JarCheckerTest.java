@@ -1,4 +1,4 @@
-package ar.com.atos.sign;
+package ar.org.sign;
 
 import java.io.IOException;
 import java.net.URL;
@@ -6,6 +6,8 @@ import java.net.URL;
 import junit.framework.Assert;
 
 import org.junit.Test;
+
+import ar.org.sign.JarChecker;
 
 public class JarCheckerTest {
 	@Test
